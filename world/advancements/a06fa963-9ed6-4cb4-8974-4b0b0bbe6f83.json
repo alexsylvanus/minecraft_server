@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2018-07-31 21:19:30 -0400",
+      "minecraft:wooded_hills": "2018-07-31 21:13:21 -0400"
+    },
+    "done": false
+  }
+}
